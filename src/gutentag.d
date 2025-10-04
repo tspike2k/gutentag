@@ -1,3 +1,9 @@
+/*
+Authors:   tspike (github.com/tspike2k)
+Copyright: Copyright (c) 2025
+License:   Boost Software License 1.0 (See LICENSE.txt or https://www.boost.org/LICENSE_1_0.txt)
+*/
+
 import std.stdio;
 import std.algorithm;
 import std.conv;
