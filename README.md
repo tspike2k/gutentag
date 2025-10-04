@@ -1,6 +1,6 @@
 # Gutentag
 
-Utility to generate browsable list of literature on Project Gutenberg.
+Utility to generate a browsable list of literature on Project Gutenberg.
 
 ## About
 
@@ -17,10 +17,10 @@ Originally hammered out in a few days in May 2025, it was cleaned up and added t
 On Linux, run the following commands in the terminal to download, build, and run the utility:
 
 ```bash
-    git clone https://github.com/tspike2k/gutentag
-    cd gutentag
-    ./build.sh
-    ./run.sh
+git clone https://github.com/tspike2k/gutentag
+cd gutentag
+./build.sh
+./run.sh
 ```
 
 The resulting webpages will then be in the build/out sub-directory of the project.
